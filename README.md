@@ -5,8 +5,13 @@ Defective by Design is a third-person survival game where you play as an android
 Survive until time runs out, and you move on to the next level. But every level that passes means more hunters, more ground to cover, and less room for error, and longer time to try and survive. There are no weapons. No allies. No shortcuts. Just you, the clock, and however long your legs hold out.
 
 W = Move Forward
+
 A = Move Left
+
 s = Move Backwards
+
 D = Move Right
+
 Space = Jump
+
 F = Pause
